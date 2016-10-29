@@ -1,4 +1,4 @@
-package testebnc;
+package br.umc.iod.jpa;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

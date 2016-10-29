@@ -1,4 +1,4 @@
-package testebnc;
+package br.umc.iod.jpa;
 
 import java.util.List;
 
